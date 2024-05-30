@@ -2,6 +2,7 @@
 ##
 -  ❤️ Apaixonado em aprender coisas diferentes!
 -  📚 Tecnico em Redes de Computadores - IFS.
+-  👨🏽‍💻 Bolsista Labic - IFS.
 -  🔭 Estou estudando Front-End (HTML, CSS, JavaSript, React e TypeScript com  foco em React).
 
 
