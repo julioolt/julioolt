@@ -3,6 +3,7 @@
 -  ❤️ Apaixonado em aprender coisas diferentes!
 -  📚 Tecnico em Redes de Computadores - IFS.
 -  🔭 Estou estudando Front-End (HTML, CSS, JavaSript, React e TypeScript com  foco em React).
+-  🔭 Estudando IA.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=julioolt&theme=dark&show_icons=true" alt="stats">
